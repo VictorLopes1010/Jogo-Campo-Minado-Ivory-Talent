@@ -1,0 +1,13 @@
+C:\Users\Witter\Pictures\ivoryit-testeestagio-campo-minado-master\Ivory.TesteEstagio.CampoMinado\bin\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.exe
+C:\Users\Witter\Pictures\ivoryit-testeestagio-campo-minado-master\Ivory.TesteEstagio.CampoMinado\bin\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.deps.json
+C:\Users\Witter\Pictures\ivoryit-testeestagio-campo-minado-master\Ivory.TesteEstagio.CampoMinado\bin\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.runtimeconfig.json
+C:\Users\Witter\Pictures\ivoryit-testeestagio-campo-minado-master\Ivory.TesteEstagio.CampoMinado\bin\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.runtimeconfig.dev.json
+C:\Users\Witter\Pictures\ivoryit-testeestagio-campo-minado-master\Ivory.TesteEstagio.CampoMinado\bin\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.dll
+C:\Users\Witter\Pictures\ivoryit-testeestagio-campo-minado-master\Ivory.TesteEstagio.CampoMinado\bin\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.pdb
+C:\Users\Witter\Pictures\ivoryit-testeestagio-campo-minado-master\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.csprojAssemblyReference.cache
+C:\Users\Witter\Pictures\ivoryit-testeestagio-campo-minado-master\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.AssemblyInfoInputs.cache
+C:\Users\Witter\Pictures\ivoryit-testeestagio-campo-minado-master\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.AssemblyInfo.cs
+C:\Users\Witter\Pictures\ivoryit-testeestagio-campo-minado-master\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.csproj.CoreCompileInputs.cache
+C:\Users\Witter\Pictures\ivoryit-testeestagio-campo-minado-master\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.dll
+C:\Users\Witter\Pictures\ivoryit-testeestagio-campo-minado-master\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.pdb
+C:\Users\Witter\Pictures\ivoryit-testeestagio-campo-minado-master\Ivory.TesteEstagio.CampoMinado\obj\Debug\netcoreapp3.1\Ivory.TesteEstagio.CampoMinado.genruntimeconfig.cache

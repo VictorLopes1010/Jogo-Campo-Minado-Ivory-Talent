@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Witter\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Witter\\.nuget\\packages"
+    ]
+  }
+}
